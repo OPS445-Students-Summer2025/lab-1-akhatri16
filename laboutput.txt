@@ -44,7 +44,7 @@ OPS445 Lab Report - System Information for running ./CheckLab1.py
     Git Email: akhatri16@myseneca.ca
     Linux system name: abhise-computer
     Python executable: /usr/bin/python3
-    Python version:  3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]
+    Python version:  3.12.3 (main, Feb  5 2025, 15:21:32) [GCC 13.3.0]
     OS Platform: linux
     Working Directory: /home/abhisek/ops445/lab1
     Start at: Fri May 16 20:55:12 2025
